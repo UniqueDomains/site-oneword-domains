@@ -21,14 +21,14 @@ If you want to search & filters the complete database of [.SITE one word domains
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.site         | premium   | 70       | 38%    | 3      |           |         |         |
+| aaa.site         | premium   | 70       | 35%    | 3      |           |         |         |
 | AAD.site         | premium   | 82       | 80%    | 3      |           |         |         |
 | aah.site         | premium   | 114      | 92%    | 3      |           |         |         |
 | aak.site         | premium   | 68       | 32%    | 3      |           |         |         |
 | AandE.site       | available | 50       | 80%    | 7      |           |         |         |
 | aardwolf.site    | available | 54       | 84%    | 8      |           |         |         |
 | aargh.site       | premium   | 56       | 76%    | 5      |           |         |         |
-| aaron.site       | premium   | 88       | 32%    | 5      |           |         |         |
+| aaron.site       | premium   | 88       | 28%    | 5      |           |         |         |
 | aaronburr.site   | available | 54       | 72%    | 10     |           |         |         |
 | aba.site         | premium   | 72       | 88%    | 3      |           |         |         |
 | abactinal.site   | available | 50       | 1%     | 9      |           |         |         |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.SITE one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
