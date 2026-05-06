@@ -1,10 +1,10 @@
-# Available .SITE One-Word Domains (72,802)
+# Available .SITE One-Word Domains (72,810)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-72%2C802%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-72%2C810%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .site one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **72,802 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **72,810 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 72,802 domains
+**Public extract:** 1,000 rows · **Live catalog:** 72,810 domains · **Median ask:** $374.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/site`  
 **Best for:** founders, investors, studios
 
@@ -72,18 +72,18 @@ print(df.head())
 | skills.site         | premium   | $312.50   | —             | 58             | 47     | 6      | name.com                                                  |
 | whitevinegar.site   | available | $2.99     | —             | 66             | 12     | 13     | name.com                                                  |
 | intuitive.site      | resell    | —         | —             | 74             | 84     | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
-| stories.site        | premium   | $312.50   | —             | 58             | 36     | 7      | name.com                                                  |
+| aaron.site          | premium   | $312.50   | $1,250        | 88             | 37     | 5      | name.com                                                  |
 | whitesauce.site     | available | $2.99     | —             | 72             | 11     | 11     | name.com                                                  |
-| mail.site           | resell    | —         | —             | 94             | 59     | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
-| aaron.site          | premium   | $312.50   | $1,250        | 88             | 35     | 5      | name.com                                                  |
+| mail.site           | resell    | —         | —             | 94             | 60     | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
+| stories.site        | premium   | $312.50   | —             | 58             | 36     | 7      | name.com                                                  |
 | clickbait.site      | available | $2.99     | —             | 66             | 11     | 9      | name.com                                                  |
 | agents.site         | resell    | —         | —             | 56             | 50     | 6      | Dynadot Inc                                               |
 | etc.site            | premium   | $781.25   | —             | 58             | 34     | 3      | name.com                                                  |
 | tomorrows.site      | available | $2.99     | —             | 60             | 11     | 9      | name.com                                                  |
-| embrace.site        | resell    | —         | —             | 88             | 26     | 7      | West263 International Limited                             |
+| KeyWest.site        | resell    | —         | —             | 76             | 26     | 8      | West263 International Limited                             |
 | aak.site            | premium   | $78.12    | $312.50       | 68             | 32     | 3      | name.com                                                  |
 | JollyRoger.site     | available | $31.98    | —             | 82             | 10     | 11     | namecheap                                                 |
-| KeyWest.site        | resell    | —         | —             | 76             | 26     | 8      | West263 International Limited                             |
+| embrace.site        | resell    | —         | —             | 88             | 25     | 7      | West263 International Limited                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 72,802 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 72,810 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely one-word .site domains. The range includes clean dictionary-style words such as calm.site, excel.site, latin.site, and fame.site, alongside more niche or playful options like pottydance.site and wiggle.site. For founders, the main question is whether the word is memorable, easy to say, and credible on a .site ending. For investors, the core test is whether the ask leaves room for resale relative to how broadly useful the word is. With a median ask of 374.85, these domains sit in a price zone where wording quality matters more than rarity alone. When comparing names, weigh clarity, renewal fit, and trademark exposure before focusing on price.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear, broad words over narrow or awkward phrasing
+- Check if the word still feels credible on a .site ending
+- Use the 374.85 median ask as a pricing reality check
+- Be cautious with terms that may carry trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
