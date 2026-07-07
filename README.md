@@ -1,10 +1,10 @@
-# Available .SITE One-Word Domains (72,833)
+# Available .SITE One-Word Domains (72,834)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-72%2C833%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-72%2C834%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .site one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **72,833 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **72,834 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 72,833 domains · **Median ask:** $374.85 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 72,834 domains · **Median ask:** $240.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/site`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/site`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SITE one-word domain 
 
 ### Files
 
-- `site.csv` — public CSV extract (1,000 rows)
-- `site.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `site.csv`, public CSV extract (1,000 rows)
+- `site.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| flotation.site      | available | $2.99     | $46.99        | 54             | 72     | 9      | name.com                                                  |
-| showup.site         | resell    | $2.99     | —             | 83             | 20     | 7      | West263 International Limited                             |
-| communications.site | premium   | $781.25   | $3,125        | 54             | 84     | 14     | name.com                                                  |
-| clickbait.site      | available | $2.99     | —             | 66             | 11     | 9      | name.com                                                  |
-| topten.site         | resell    | —         | —             | 72             | 88     | 7      | Go Daddy, LLC                                             |
-| skills.site         | premium   | $312.50   | —             | 58             | 47     | 6      | name.com                                                  |
-| tomorrows.site      | available | $2.99     | —             | 60             | 11     | 9      | name.com                                                  |
-| intuitive.site      | resell    | —         | —             | 74             | 84     | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
-| aaron.site          | premium   | $312.50   | $1,250        | 88             | 37     | 5      | name.com                                                  |
-| JollyRoger.site     | available | $31.98    | —             | 82             | 10     | 11     | namecheap                                                 |
-| Skype.site          | resell    | —         | —             | 86             | 66     | 5      | GMO Internet Group, Inc. d/b/a Onamae.com                 |
-| stories.site        | premium   | $312.50   | —             | 58             | 36     | 7      | name.com                                                  |
-| CyberMonday.site    | available | $31.98    | —             | 78             | 10     | 12     | namecheap                                                 |
-| mail.site           | resell    | —         | —             | 94             | 60     | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
-| etc.site            | premium   | $781.25   | —             | 58             | 34     | 3      | name.com                                                  |
-| racetrack.site      | available | $2.99     | —             | 77             | 10     | 10     | name.com                                                  |
-| agents.site         | resell    | —         | —             | 56             | 50     | 6      | Dynadot Inc                                               |
-| aak.site            | premium   | $78.12    | $312.50       | 68             | 32     | 3      | name.com                                                  |
-| onthemove.site      | available | $2.99     | —             | 72             | 10     | 11     | name.com                                                  |
-| embrace.site        | resell    | —         | —             | 88             | 25     | 7      | West263 International Limited                             |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| aunts.site     | available | $2.99     | —             | medium         | low    | 5      | name.com                                                  |
+| mail.site      | resell    | —         | —             | high           | medium | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
+| aak.site       | premium   | $78.12    | $312.50       | medium         | low    | 3      | name.com                                                  |
+| sunhat.site    | available | $2.99     | —             | high           | low    | 6      | name.com                                                  |
+| seize.site     | resell    | —         | —             | medium         | low    | 5      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
+| coat.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
+| grayest.site   | available | $2.99     | $38.50        | medium         | low    | 7      | namesilo                                                  |
+| texting.site   | resell    | —         | —             | medium         | low    | 7      | NameCheap, Inc.                                           |
+| dock.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
+| resumed.site   | available | $2.99     | —             | medium         | low    | 7      | name.com                                                  |
+| topten.site    | resell    | —         | —             | high           | high   | 7      | Go Daddy, LLC                                             |
+| duty.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
+| satfat.site    | available | $2.99     | —             | medium         | low    | 7      | name.com                                                  |
+| passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
+| face.site      | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
+| tomboys.site   | available | $2.99     | —             | low            | low    | 7      | name.com                                                  |
+| footprint.site | resell    | —         | —             | medium         | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com                   |
+| fill.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
+| alcohols.site  | available | $2.99     | —             | medium         | low    | 8      | name.com                                                  |
+| intuitive.site | resell    | —         | —             | high           | high   | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 72,833 live domains                        |
+| 1,000-row public sample | 72,834 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .site domains. The range includes clean dictionary-style words such as calm.site, excel.site, latin.site, and fame.site, alongside more niche or playful options like pottydance.site and wiggle.site. For founders, the main question is whether the word is memorable, easy to say, and credible on a .site ending. For investors, the core test is whether the ask leaves room for resale relative to how broadly useful the word is. With a median ask of 374.85, these domains sit in a price zone where wording quality matters more than rarity alone. When comparing names, weigh clarity, renewal fit, and trademark exposure before focusing on price.
+This set of one-word .site domain names covers a wide range of styles, from playful compounds like coffeeman.site and smileyface.site to punchy single-word picks like embrace.site and develop.site. With a median ask of $240 across 72,834 domains, pricing stays approachable for most buyers, though renewal cost and use-case fit are worth checking before purchase. The .site TLD suits startups, personal brands, and niche projects that don't require a .com.
 
-- Prefer clear, broad words over narrow or awkward phrasing
-- Check if the word still feels credible on a .site ending
-- Use the 374.85 median ask as a pricing reality check
-- Be cautious with terms that may carry trademark risk
+- 72,834 one-word .site domain names in this selection
+- Median ask: $240 across the full list
+- Includes brandable picks like astound.site and embrace.site
+- Updated daily to reflect newly listed .site domains
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
