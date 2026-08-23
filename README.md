@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .site one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 76,315 domains · **Median ask:** $150.09 · **High-demand under $2,500:** 340
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/site`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | aak.site       | premium   | $78.12    | $312.50       | medium         | low    | 3      | name.com                                                  |
 | aunts.site     | available | $2.99     | —             | medium         | low    | 5      | name.com                                                  |
 | seize.site     | resell    | —         | —             | medium         | low    | 5      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
-| coat.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
+| lao.site       | premium   | $156.25   | $625          | low            | low    | 3      | name.com                                                  |
 | spiny.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                                 |
 | texting.site   | resell    | —         | —             | medium         | low    | 7      | NameCheap, Inc.                                           |
-| dock.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
+| coat.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
 | aecial.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 | topten.site    | resell    | —         | —             | high           | high   | 7      | Go Daddy, LLC                                             |
-| duty.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
+| dock.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
 | awheel.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 | passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
-| face.site      | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
+| duty.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
 | ennead.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 | footprint.site | resell    | —         | —             | medium         | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com                   |
-| fill.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
+| face.site      | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
 | sunhat.site    | available | $2.99     | —             | high           | low    | 6      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
