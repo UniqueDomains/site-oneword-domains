@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .site one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 79,250 domains · **Median ask:** $122.98 · **High-demand under $2,500:** 332
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/site`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| time.site      | premium   | $781.25   | —             | high           | medium | 4      | name.com                                                  |
 | acned.site     | available | $0.98     | $31.98        | low            | low    | 5      | namecheap                                                 |
 | mail.site      | resell    | —         | —             | high           | medium | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
 | aak.site       | premium   | $78.12    | $312.50       | medium         | low    | 3      | name.com                                                  |
@@ -73,17 +74,16 @@ print(df.head())
 | spiny.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                                 |
 | texting.site   | resell    | —         | —             | medium         | low    | 7      | NameCheap, Inc.                                           |
 | coat.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
-| aecial.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
+| winey.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                                 |
 | topten.site    | resell    | —         | —             | high           | high   | 7      | Go Daddy, LLC                                             |
 | dock.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
-| awheel.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
+| aecial.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 | passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
 | duty.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
-| ennead.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
+| awheel.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 | footprint.site | resell    | —         | —             | medium         | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com                   |
 | face.site      | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
-| sunhat.site    | available | $2.99     | —             | high           | low    | 6      | name.com                                                  |
-| intuitive.site | resell    | —         | —             | high           | high   | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
+| ennead.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
