@@ -1,10 +1,10 @@
-# Available .SITE One-Word Domains (81,874)
+# Available .SITE One-Word Domains (83,026)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-81%2C874%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C026%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .site one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **81,874 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **83,026 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 81,874 domains · **Median ask:** $140.07 · **High-demand under $2,500:** 275
+**Public extract:** 1,000 rows · **Live catalog:** 83,026 domains · **Median ask:** $159.58 · **High-demand under $2,500:** 249
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/site`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | mail.site      | resell    | —         | —             | medium         | low    | 4      | Radix Technologies Inc. SEZC / CO Services Cayman Limited |
 | aak.site       | premium   | $78.12    | $312.50       | medium         | low    | 3      | name.com                                                  |
 | aunts.site     | available | $2.99     | $38.50        | medium         | low    | 5      | namesilo                                                  |
-| seize.site     | resell    | —         | —             | medium         | low    | 5      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
+| topten.site    | resell    | —         | —             | high           | high   | 7      | Go Daddy, LLC                                             |
 | lao.site       | premium   | $156.25   | $625          | low            | low    | 3      | name.com                                                  |
 | gaily.site     | available | $0.98     | $31.98        | low            | low    | 5      | namecheap                                                 |
-| topten.site    | resell    | —         | —             | high           | high   | 7      | Go Daddy, LLC                                             |
+| passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
 | coat.site      | premium   | $312.50   | —             | high           | low    | 4      | name.com                                                  |
 | spiny.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                                 |
-| passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.                      |
+| footprint.site | resell    | —         | —             | medium         | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com                   |
 | dock.site      | premium   | $1,107    | $1,107        | medium         | low    | 4      | namesilo                                                  |
 | winey.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                                 |
-| footprint.site | resell    | —         | —             | medium         | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com                   |
+| intuitive.site | resell    | —         | —             | high           | high   | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
 | duty.site      | premium   | $312.50   | —             | medium         | low    | 4      | name.com                                                  |
 | aecial.site    | available | $0.98     | $31.98        | low            | low    | 6      | namecheap                                                 |
-| intuitive.site | resell    | —         | —             | high           | high   | 9      | GoDaddy Online Services Cayman Islands Ltd.               |
+| isosceles.site | resell    | —         | —             | low            | low    | 9      | GMO Internet Group, Inc. d/b/a Onamae.com                 |
 | face.site      | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 81,874 live domains                        |
+| 1,000-row public sample | 83,026 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 275 high-demand names under $2,500         |
+| Basic exported fields   | 249 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
