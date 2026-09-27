@@ -1,10 +1,10 @@
-# Available .SITE One-Word Domains (83,403)
+# Available .SITE One-Word Domains (45,834)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C403%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-45%2C834%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .site one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **83,403 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **45,834 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 83,403 domains · **Median ask:** $170.23 · **High-demand under $2,500:** 240
+**Public extract:** 1,000 rows · **Live catalog:** 45,834 domains · **Median ask:** $340.97 · **High-demand under $2,500:** 457
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/site`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| rimy.site      | available | $0.98     | $31.98        | medium         | low    | 4      | namecheap                                 |
-| asat.site      | resell    | —         | —             | high           | low    | 4      | GMO Internet Group, Inc. d/b/a Onamae.com |
-| aak.site       | premium   | $78.12    | $312.50       | high           | low    | 3      | name.com                                  |
-| xciv.site      | available | $0.98     | $31.98        | high           | low    | 4      | namecheap                                 |
-| errand.site    | resell    | —         | —             | high           | high   | 6      | GMO Internet Group, Inc. d/b/a Onamae.com |
-| ant.site       | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                                  |
-| acned.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                 |
-| bitcoin.site   | resell    | —         | —             | high           | high   | 7      | Namecheap                                 |
-| diy.site       | premium   | $1,625    | $6,500        | high           | low    | 3      | namecheap                                 |
-| algid.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                 |
-| burrito.site   | resell    | —         | —             | high           | high   | 7      | HOSTINGER operations, UAB                 |
-| gun.site       | premium   | $312.50   | —             | high           | low    | 3      | name.com                                  |
-| gaily.site     | available | $0.98     | $31.98        | high           | low    | 5      | namecheap                                 |
-| apparent.site  | resell    | —         | —             | high           | low    | 8      | GoDaddy.com, LLC                          |
-| lao.site       | premium   | $156.25   | $625          | high           | low    | 3      | name.com                                  |
-| girth.site     | available | $2.99     | $38.50        | high           | low    | 5      | namesilo                                  |
-| passcode.site  | resell    | —         | —             | high           | low    | 8      | Atak Domain Bilgi Teknolojileri A.Ş.      |
-| airy.site      | premium   | $156.25   | $625          | high           | low    | 4      | name.com                                  |
-| ilxxx.site     | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                 |
-| footprint.site | resell    | —         | —             | high           | high   | 9      | PDR Ltd. d/b/a PublicDomainRegistry.com   |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
+| clop.site    | available | $0.98     | $31.98        | high           | low    | 4      | namecheap                                 |
+| amoxil.site  | resell    | —         | —             | high           | low    | 6      | GMO Internet Group, Inc. d/b/a Onamae.com |
+| afp.site     | premium   | $325      | $1,300        | high           | low    | 3      | namecheap                                 |
+| scab.site    | available | $2.99     | $38.50        | high           | low    | 4      | namesilo                                  |
+| enrich.site  | resell    | —         | —             | high           | low    | 6      | West263 International Limited             |
+| cdc.site     | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                                  |
+| wiry.site    | available | $0.98     | $31.98        | high           | low    | 4      | namecheap                                 |
+| captive.site | resell    | —         | —             | high           | low    | 7      | West263 International Limited             |
+| clx.site     | premium   | $78.12    | $312.50       | high           | low    | 3      | name.com                                  |
+| arhus.site   | available | $2.99     | $38.50        | high           | low    | 5      | namesilo                                  |
+| cpr.site     | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                                  |
+| baulk.site   | available | $0.98     | $31.98        | high           | low    | 5      | namecheap                                 |
+| din.site     | premium   | $312.50   | $1,250        | high           | low    | 3      | name.com                                  |
+| debar.site   | available | $2.99     | $38.50        | medium         | low    | 5      | namesilo                                  |
+| dip.site     | premium   | $325      | $1,300        | high           | low    | 3      | namecheap                                 |
+| glial.site   | available | $0.98     | $31.98        | medium         | low    | 5      | namecheap                                 |
+| duo.site     | premium   | $812.50   | $3,250        | high           | high   | 3      | namecheap                                 |
+| loamy.site   | available | $0.98     | $31.98        | high           | low    | 5      | namecheap                                 |
+| hid.site     | premium   | $812.50   | $3,250        | medium         | low    | 3      | namecheap                                 |
+| pupal.site   | available | $0.98     | $31.98        | high           | medium | 5      | namecheap                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 83,403 live domains                        |
+| 1,000-row public sample | 45,834 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 240 high-demand names under $2,500         |
+| Basic exported fields   | 457 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SITE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
